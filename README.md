@@ -1,4 +1,4 @@
-#Equipe de Hackathon
+#Equipe de Hackathon#
 
 ##Time de desenvolvedores
 ###Tadeu Agostine _Business_
