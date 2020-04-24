@@ -17,9 +17,9 @@
 <a href="">Linkedin</a><br>
 <a href="https://github.com/snow-sam">GitHub</a>
 
-<h3>TheWaveGamer <i>Developed</i></h3>
-<a href="">Linkedin</a><br>
-<a href="https://github.com/TheWaveGamer">GitHub</a>
+<h3>Carlos Finelli <i>Developed</i></h3>
+<a href="https://www.linkedin.com/in/carlosfinelli/">Linkedin</a><br>
+<a href="https://github.com/CarlosFinelli">GitHub</a>
 
 <h2>Desafio Olist</h2>
 
