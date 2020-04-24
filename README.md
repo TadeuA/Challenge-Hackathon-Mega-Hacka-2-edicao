@@ -1,22 +1,22 @@
-<h1>Equipe de Hackathon#</h1>
+<h1>Equipe de Hackathon</h1>
 
 <h2>Time de desenvolvedores</h2>
 
 <h2>Tadeu Agostine <i>Business</i></h3>
 <a href="https://www.linkedin.com/in/tadeu-agostini-498826147/">Linkedin</a>
-<a href="">GitHub</a>
+<a href="https://github.com/TadeuA">GitHub</a>
 
 <h3>Henrique Gomes <i>UI/UX</i></h3>
 <a href= "https://www.linkedin.com/in/henriquegomess/">Linkedin</a>
-<a href="">GitHub</a>
+<a href="https://github.com/Henriquegomess">GitHub</a>
 
 <h3>Émerson Alves Beier <i>Marketing</i></h3>
 <a href="https://www.linkedin.com/in/%C3%A9merson-alves-beier-850364138/">Linkedin</a>
-<a href="">GitHub</a>
+<a href="https://github.com/EAbeier">GitHub</a>
 
 <h3>Snowsam <i>Developed</i></h3>
 <a href="">Linkedin</a>
-<a href="">GitHub</a>
+<a href="https://github.com/snow-sam">GitHub</a>
 
 <h3>TheWaveGamer <i>Developed</i></h3>
 <a href="">Linkedin</a>
