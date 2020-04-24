@@ -18,16 +18,16 @@
 <a href="https://github.com/snow-sam">GitHub</a>
 
 <h3>TheWaveGamer <i>Developed</i></h3>
-<a href="">Linkedin</a>
-<a href="">GitHub</a>
+<a href="">Linkedin</a><br>
+<a href="https://github.com/TheWaveGamer">GitHub</a>
 
 <h2>Desafio Olist</h2>
 
-> O Olist é a maior vitrine de produtos em marketplaces no brasil inteiro, tendo nesta vitrine mais >de 1 milhão de produtos diferentes anunciados, com mais de 400 mil vendas por mês. Empoderando o >E Commerce brasileiro, ajudando comerciantes locais de pequenos, médios e grande portes a ter >mais visibilidades e janelas de vendas distribuídas. Além de toda a gestão logística de envios >desses produtos, além de todo o fluxo de repasse financeiro.
+> O Olist é a maior vitrine de produtos em marketplaces no brasil inteiro, tendo nesta vitrine mais >de 1 milhão de produtos diferentes anunciados, com mais de 400 mil vendas por mês. Empoderando o E Commerce brasileiro, ajudando comerciantes locais de pequenos, médios e grande portes a ter mais visibilidades e janelas de vendas distribuídas. Além de toda a gestão logística de envios desses produtos, além de todo o fluxo de repasse financeiro.
 >
 > Desafios
 >
-> O segmento de comércio online é muito dinâmico e robusto. O volume em número de pedidos passam de >120 milhões em 2019. O grande volume do pedido consequentemente gera um volume gigantesco de >dúvidas e questionamentos nos itens em questão.
+> O segmento de comércio online é muito dinâmico e robusto. O volume em número de pedidos passam de 120 milhões em 2019. O grande volume do pedido consequentemente gera um volume gigantesco de >dúvidas e questionamentos nos itens em questão.
 >
 > Esse grande fluxo de perguntas em diversos sites de marketplace, prejudica não só a experiência >do usuário, mas atrapalha a logística do vendedor, gerando um ruído em sua comunicação e >consequentemente perda de vendas.
 >
@@ -45,7 +45,7 @@
 
 > A proposta vai ser apresenda na live de hoje dia 24/04/20, onde vamos desenvolver a ideia a ser desenvolvida
 
-O Hackathon
+<h2>O Hackathon</h2>
 
 O maior hackathon on-line do Brasil.
 
