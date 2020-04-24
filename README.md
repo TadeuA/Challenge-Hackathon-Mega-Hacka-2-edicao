@@ -1,20 +1,25 @@
 <h1>Equipe de Hackathon#</h1>
 
 <h2>Time de desenvolvedores</h2>
+
 <h2>Tadeu Agostine _Business_</h3>
-[Linkedin](https://www.linkedin.com/in/tadeu-agostini-498826147/)
+<a href="https://www.linkedin.com/in/tadeu-agostini-498826147/"><img src="./assets/linkedin"></a>
 Github
+
 <h3>Henrique Gomes _UI/UX_</h3>
-[Linkedin](https://www.linkedin.com/in/henriquegomess/)
+<a href= "https://www.linkedin.com/in/henriquegomess/"></a>
 Github
-<h3>Émerson Alves Beier _Marketing_
-[Linkedin](https://www.linkedin.com/in/%C3%A9merson-alves-beier-850364138/)
+
+<h3>Émerson Alves Beier _Marketing_</h3>
+[<a href="https://www.linkedin.com/in/%C3%A9merson-alves-beier-850364138/"></a>
 Github
+
 <h3>Snowsam _Developed_</h3>
-Linkedin
+<a href=""></a>
 Github
+
 <h3>TheWaveGamer _Developed_</h3>
-Linkedin
+<a href=""></a>
 Github
 
 > A proposta vai ser apresenda na live de hoje dia 24/04/20, onde vamos desenvolver a ideia a ser desenvolvida
