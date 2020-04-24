@@ -2,25 +2,25 @@
 
 <h2>Time de desenvolvedores</h2>
 
-<h2>Tadeu Agostine _Business_</h3>
-<a href="https://www.linkedin.com/in/tadeu-agostini-498826147/"><img src="./assets/linkedin"></a>
-Github
+<h2>Tadeu Agostine <i>Business</i></h3>
+<a href="https://www.linkedin.com/in/tadeu-agostini-498826147/">Linkedin</a>
+<a href="">GitHub</a>
 
-<h3>Henrique Gomes _UI/UX_</h3>
-<a href= "https://www.linkedin.com/in/henriquegomess/"></a>
-Github
+<h3>Henrique Gomes <i>UI/UX</i></h3>
+<a href= "https://www.linkedin.com/in/henriquegomess/">Linkedin</a>
+<a href="">GitHub</a>
 
-<h3>Émerson Alves Beier _Marketing_</h3>
-[<a href="https://www.linkedin.com/in/%C3%A9merson-alves-beier-850364138/"></a>
-Github
+<h3>Émerson Alves Beier <i>Marketing</i></h3>
+<a href="https://www.linkedin.com/in/%C3%A9merson-alves-beier-850364138/">Linkedin</a>
+<a href="">GitHub</a>
 
-<h3>Snowsam _Developed_</h3>
-<a href=""></a>
-Github
+<h3>Snowsam <i>Developed</i></h3>
+<a href="">Linkedin</a>
+<a href="">GitHub</a>
 
-<h3>TheWaveGamer _Developed_</h3>
-<a href=""></a>
-Github
+<h3>TheWaveGamer <i>Developed</i></h3>
+<a href="">Linkedin</a>
+<a href="">GitHub</a>
 
 > A proposta vai ser apresenda na live de hoje dia 24/04/20, onde vamos desenvolver a ideia a ser desenvolvida
 
