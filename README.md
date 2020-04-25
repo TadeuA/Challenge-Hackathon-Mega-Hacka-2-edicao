@@ -2,7 +2,7 @@
 
 <h2>Time de desenvolvedores</h2>
 
-<h2>Tadeu Agostine <i>Business</i></h3>
+<h2>Tadeu Agostini <i>Business</i></h3>
 <a href="https://www.linkedin.com/in/tadeu-agostini-498826147/">Linkedin</a><br>
 <a href="https://github.com/TadeuA">GitHub</a>
 
