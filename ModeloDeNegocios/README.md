@@ -1,5 +1,5 @@
 <h1>Modelo de Negócios<h1>
-<img src="../assets/PropostaDeValor">
+<img src="../assets/PropostaDeValor.png">
 
 <h3>Segmento de Clientes</h3>
 
