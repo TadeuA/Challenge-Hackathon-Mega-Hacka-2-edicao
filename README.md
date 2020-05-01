@@ -71,3 +71,5 @@
 > O **Mega Hack** é o Monte Everest dos hackathons.
 >
 > Essa 2ª edição, conta com o apoio empresas que acreditam no poder de transformação do hackathon, >e colabora com o desenvolvimento de novos conhecimentos, permitindo que as pessoas ao redor do >mundo criem cada vez mais novas conexões. Tais como:
+
+<img src="./assets/megahack.jpg" width="350">
