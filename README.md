@@ -13,8 +13,9 @@
 <h3>Émerson Alves Beier <i>Marketing</i></h3>
 <a href="https://www.linkedin.com/in/%C3%A9merson-alves-beier-850364138/">Linkedin</a><br>
 <a href="https://github.com/EAbeier">GitHub</a>
+
 <h3>Snowsam <i>Developed</i></h3>
-<a href="">Linkedin</a><br>
+<a href="https://www.linkedin.com/in/samuel-souza-1442311a5/">Linkedin</a><br>
 <a href="https://github.com/snow-sam">GitHub</a>
 
 <h3>Carlos Finelli <i>Developed</i></h3>
@@ -41,14 +42,34 @@
 > Facilitar a tomada de decisão na hora da compra;
 > Proporcionar ao vendedor uma gestão mais fluída e otimizada;.
 
+<h2>Prolema atacado</h2>
+
+> Os vendedores onlines em suma maioria são microempreendedores ou MEI e
+> tomam conta de suas lojas sozinhos ou com ajuda d' afamilia. E cabe a eles
+> gerenciar seus estoques, anunciar seus produtos, atender seus clientes e entregar
+> seus produtos. Isso deixa qualquer um sobre carregado, e quando se trata em
+> atender clientes, isso significa fazer o pré e o pós venda. Que atualmente acontece
+> através de chats e e-mails, onde o volume desses não gigantescos e muitas desses
+> contatos são para esclarecer dúvidas, que se repetem bizarramente. Causando um
+> desgaste nos vendedores que por sua vez devido à exaustão de todo seu processo
+> de trabalho podem deixar de lado o esclarecimento dessas dúvidas, assim deixando
+> de fazer algumas vendas.
+
 <h2>A Solução</h2>
 
-> A proposta vai ser apresenda na live de hoje dia 24/04/20, onde vamos desenvolver a ideia a ser desenvolvida
+> Não encontramos algo parecido, A nossa ferramenta é exclusivamente para
+> responder perguntas feitas nos marketplaces, onde as reúnem em um único feed. E
+> mais, ela permitirá que o vendedor possa cadastrar perguntas e definir opções de
+> respostas e se preferir **automatizá-las**. E quando houver uma nova pergunta a
+> ferramenta avisará sobre o ocorrido então basta o vendedor selecionar uma das
+> opções de resposta, sem precisar perder tempo digitando toda vez ou se optou por automatizá-la **a ferramenta** toma iniciativa e a **responde** da melhor forma
 
 <h2>O Hackathon</h2>
 
-O maior hackathon on-line do Brasil.
+> O maior hackathon on-line do Brasil.
+>
+> O **Mega Hack** é o Monte Everest dos hackathons.
+>
+> Essa 2ª edição, conta com o apoio empresas que acreditam no poder de transformação do hackathon, >e colabora com o desenvolvimento de novos conhecimentos, permitindo que as pessoas ao redor do >mundo criem cada vez mais novas conexões. Tais como:
 
-O **Mega Hack** é o Monte Everest dos hackathons.
-
-Essa 2ª edição, conta com o apoio empresas que acreditam no poder de transformação do hackathon, e colabora com o desenvolvimento de novos conhecimentos, permitindo que as pessoas ao redor do mundo criem cada vez mais novas conexões. Tais como:
+<img src="./assets/megahack.jpg">
