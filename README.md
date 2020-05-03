@@ -57,12 +57,7 @@
 
 <h2>A Solução</h2>
 
-> Não encontramos algo parecido, A nossa ferramenta é exclusivamente para
-> responder perguntas feitas nos marketplaces, onde as reúnem em um único feed. E
-> mais, ela permitirá que o vendedor possa cadastrar perguntas e definir opções de
-> respostas e se preferir **automatizá-las**. E quando houver uma nova pergunta a
-> ferramenta avisará sobre o ocorrido então basta o vendedor selecionar uma das
-> opções de resposta, sem precisar perder tempo digitando toda vez ou se optou por automatizá-la **a ferramenta** toma iniciativa e a **responde** da melhor forma
+> A ferramenta responde perguntas feitas nos marketplaces, reunindo-as num único feed. Permitirá o casastro de perguntas e definir respostas e se preferir **automatizá-las**. Havendo novas perguntas, notificará o ocorrido, basta selecionar uma opções de resposta, sem precisar perder tempo digitando toda vez ou se optou por automatizá-la **a ferramenta** toma iniciativa e a **responde** da melhor forma
 
 <h2>O Hackathon</h2>
 
