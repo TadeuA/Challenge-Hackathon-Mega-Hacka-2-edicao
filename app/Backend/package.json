@@ -1,0 +1,21 @@
+{
+  "name": "backend2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "knex": "^0.21.1",
+    "sqlite3": "^4.2.0"
+  },
+  "devDependencies": {
+    "jest": "^25.5.4",
+    "nodemon": "^2.0.3",
+    "supertest": "^4.0.2"
+  }
+}
