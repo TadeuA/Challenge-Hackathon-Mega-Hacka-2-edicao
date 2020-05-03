@@ -34,7 +34,7 @@
 >
 > Porém segundo os próprios vendedores, são questionamentos relativamente simples, como: "ainda >está disponível", "qual a cor", "tem a cor preta", "qual prazo de entrega", muitas dessas >perguntas, estão descritas na própria descrição do anúncio, ou são passíveis de automatização.
 >
-> Por exemplo, perguntas como "ainda está disponível", "qual a cor", "tem a cor preta", "qual >prazo de entrega", muitas dessas perguntas, estão descritas na própria descrição do anúncio, ou >são passíveis de automatização
+> Por exemplo, perguntas como "ainda está disponível", "qual a cor", "tem a cor preta", "qual >prazo de entrega", muitas dessas perguntas, estão descritas na própria descrição do anúncio, ou são passíveis de automatização
 >
 > Em apenas um canal de venda, recebemos em média mais de 200 mil perguntas por mês.
 > Sabendo disso, como podemos resolver os seguintes desafios:
