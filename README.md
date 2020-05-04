@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/samuel-souza-1442311a5/">Linkedin</a><br>
 <a href="https://github.com/snow-sam">GitHub</a>
 
-<h3>Carlos Finelli <i>Developed</i></h3>
+<h3>Carlos Guilherme Miranda Finelli <i>Developed</i></h3>
 <a href="https://www.linkedin.com/in/carlosfinelli/">Linkedin</a><br>
 <a href="https://github.com/CarlosFinelli">GitHub</a>
 
