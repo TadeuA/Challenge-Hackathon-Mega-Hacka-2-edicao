@@ -2,7 +2,7 @@
 
 <h2>Time de desenvolvedores</h2>
 
-<h3>Tadeu Agostini <i>Business</i></h3>
+<h2>Tadeu Agostini <i>Business</i></h3>
 <a href="https://www.linkedin.com/in/tadeu-agostini-498826147/">Linkedin</a><br>
 <a href="https://github.com/TadeuA">GitHub</a>
 
@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/samuel-souza-1442311a5/">Linkedin</a><br>
 <a href="https://github.com/snow-sam">GitHub</a>
 
-<h3>Carlos Guilherme Miranda Finelli <i>Developed</i></h3>
+<h3>Carlos Finelli <i>Developed</i></h3>
 <a href="https://www.linkedin.com/in/carlosfinelli/">Linkedin</a><br>
 <a href="https://github.com/CarlosFinelli">GitHub</a>
 
@@ -34,7 +34,7 @@
 >
 > Porém segundo os próprios vendedores, são questionamentos relativamente simples, como: "ainda >está disponível", "qual a cor", "tem a cor preta", "qual prazo de entrega", muitas dessas >perguntas, estão descritas na própria descrição do anúncio, ou são passíveis de automatização.
 >
-> Por exemplo, perguntas como "ainda está disponível", "qual a cor", "tem a cor preta", "qual >prazo de entrega", muitas dessas perguntas, estão descritas na própria descrição do anúncio, ou são passíveis de automatização
+> Por exemplo, perguntas como "ainda está disponível", "qual a cor", "tem a cor preta", "qual >prazo de entrega", muitas dessas perguntas, estão descritas na própria descrição do anúncio, ou >são passíveis de automatização
 >
 > Em apenas um canal de venda, recebemos em média mais de 200 mil perguntas por mês.
 > Sabendo disso, como podemos resolver os seguintes desafios:
@@ -57,7 +57,12 @@
 
 <h2>A Solução</h2>
 
-> A ferramenta responde perguntas feitas nos marketplaces, reunindo-as num único feed. Permitirá o casastro de perguntas e definir respostas e se preferir **automatizá-las**. Havendo novas perguntas, notificará o ocorrido, basta selecionar uma opções de resposta, sem precisar perder tempo digitando toda vez ou se optou por automatizá-la **a ferramenta** toma iniciativa e a **responde** da melhor forma
+> Não encontramos algo parecido, A nossa ferramenta é exclusivamente para
+> responder perguntas feitas nos marketplaces, onde as reúnem em um único feed. E
+> mais, ela permitirá que o vendedor possa cadastrar perguntas e definir opções de
+> respostas e se preferir **automatizá-las**. E quando houver uma nova pergunta a
+> ferramenta avisará sobre o ocorrido então basta o vendedor selecionar uma das
+> opções de resposta, sem precisar perder tempo digitando toda vez ou se optou por automatizá-la **a ferramenta** toma iniciativa e a **responde** da melhor forma
 
 <h2>O Hackathon</h2>
 
