@@ -5,7 +5,8 @@ exports.up = function (knex) {
     table.boolean("reference").defaultTo(false);
     table.integer("product_id").notNullable();
     table.integer("like");
-
+    table.timestamp("date", { options: [{ useTz: true }] });
+    table.integer("count");
     table.foreign("like").references("id").inTable("question");
 
     table.foreign("product_id").references("id").inTable("product");
